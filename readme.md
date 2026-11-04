@@ -11,4 +11,5 @@ git merge <brandch>
 clear
 git status
 git var GIT_EDITOR
+git config --global core.editor "notepad.exe"
 '''
