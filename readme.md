@@ -10,5 +10,5 @@ git checkout <branch>
 git merge <brandch>
 clear
 git status
-
+git var GIT_EDITOR
 '''
