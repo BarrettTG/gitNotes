@@ -12,4 +12,11 @@ clear
 git status
 git var GIT_EDITOR
 git config --global core.editor "notepad.exe"
+git log
+git remote add urigin <url>
+git tag -a <semver> -m '<msg>'
+git push origin <branch>
+git push origin --tags
+git pull origin <branch>
+git fetch origin
 '''
