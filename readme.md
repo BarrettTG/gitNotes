@@ -9,5 +9,6 @@ git checkout -b <branch>
 git checkout <branch>
 git merge <brandch>
 clear
+git status
 
 '''
